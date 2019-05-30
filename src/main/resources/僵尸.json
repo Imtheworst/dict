@@ -1,0 +1,50 @@
+{
+  "dict": [
+    {
+      "code": [
+        {
+          "text": "男1",
+          "value": "01"
+        },
+        {
+          "text": "女2",
+          "value": "02"
+        }
+      ],
+      "name": "性别",
+      "key": "sex"
+    },
+    {
+      "code": [
+        {
+          "text": "小学3",
+          "value": "01"
+        },
+        {
+          "text": "中学4",
+          "value": "02"
+        },
+        {
+          "text": "大学",
+          "value": "03"
+        }
+      ],
+      "name": "学校",
+      "key": "school"
+    },
+	{
+      "code": [
+        {
+          "text": "大1傻",
+          "value": "01"
+        },
+        {
+          "text": "二呆",
+          "value": "02"
+        }
+      ],
+      "name": "小名",
+      "key": "smallName"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "dict": [
+    {
+      "code": [
+        {
+          "text": "男",
+          "value": "01"
+        },
+        {
+          "text": "女",
+          "value": "02"
+        }
+      ],
+      "name": "性别",
+      "key": "sex"
+    },
+    {
+      "code": [
+        {
+          "text": "小学",
+          "value": "01"
+        },
+        {
+          "text": "中学",
+          "value": "02"
+        },
+        {
+          "text": "大学",
+          "value": "03"
+        }
+      ],
+      "name": "学校",
+      "key": "school"
+    }
+  ]
+}
